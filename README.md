@@ -1,5 +1,22 @@
-# 💫 About Me:
-🚀 I’m currently working on:<br>Data science and machine learning projects, focusing on end-to-end model building, evaluation, and deployment.<br><br>👯 I’m looking to collaborate on:<br>Data analysis, machine learning, and Python-based projects that solve real-world problems.<br><br>🤝 I’m looking for help with:<br>Improving model performance, best practices in deployment, and advanced data science concepts.<br><br>🌱 I’m currently learning:<br>Advanced machine learning techniques, backend development with Python (Django/Flask), and REST APIs.<br><br>💬 Ask me about:<br>Python, SQL, machine learning models, data analysis, Power BI, and data science project workflows.<br><br>⚡ Fun fact:<br>I enjoy turning raw data into meaningful insights and practical applications 🚀
+💫 About Me
+
+🚀 Current Focus
+I am actively working on Data Science and Machine Learning projects, with hands-on experience in end-to-end model development, evaluation, and deployment.
+
+👯 Collaboration Interests
+Open to collaborating on Data Analysis, Machine Learning, and Python-based projects that address real-world business and analytical challenges.
+
+🤝 Areas of Growth
+Seeking to strengthen expertise in model performance optimization, industry best practices for deployment, and advanced data science methodologies.
+
+🌱 Ongoing Learning
+Continuously enhancing skills in advanced machine learning techniques, Python backend development using Django and Flask, and RESTful API development.
+
+💬 Core Competencies
+Python | SQL | Machine Learning | Data Analysis | Power BI | End-to-end Data Science workflows
+
+⚡ Professional Outlook
+I am driven by a strong interest in transforming complex datasets into meaningful insights that support data-driven decision-making.
 
 
 ## 🌐 Socials:
